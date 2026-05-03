@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm David Corrales </br> </h1>
 
-I'm a passionate **lifelong learner** with a love for running in mountains, fixing bugs, process automation, and diving deep into **software development**.
+I'm a passionate **lifelong learner** with a love for running in mountains, fixing bugs, and diving deep into **selft and software development**.
 
 ## About Me
 
@@ -22,20 +22,15 @@ I'm a passionate **lifelong learner** with a love for running in mountains, fixi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🚫 Anti-Garbage Media
-
-**5+ years without the junk apps.**
-
-I rejected the infinite scroll and the noise of social media to focus entirely on **improving myself every single day**.
-
-*Perfecting healthy habits.*
-
-**My only social space is LinkedIn.**
-
+- **5+ years without the junk apps.**
+- I rejected the infinite scroll and the noise of social media to focus entirely on **improving myself every single day**.
+- *Perfecting healthy habits.*
+- **My only social space is LinkedIn.**
 
 ## Get in Touch
 
-- [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:devdavco.github@pm.me)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandavidcorrales/) 
+[![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:devdavco.github@pm.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandavidcorrales/) 
 
 
 <!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devdavco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
