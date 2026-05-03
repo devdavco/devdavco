@@ -38,5 +38,4 @@ I'm a passionate **lifelong learner** with a love for running in mountains, fixi
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 
----
 [![](https://visitcountpro.netlify.app/api?id=devdavco&pretty=true)](https://visitcount.itsvg.in)
