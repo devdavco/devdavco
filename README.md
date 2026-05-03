@@ -10,34 +10,8 @@ I'm a passionate **lifelong learner** with a love for running in mountains, fixi
 - 💬 **Ask me about**: Java, IT, mountains, hiking, and digital minimalism
 - ⚡ **Fun Facts**: I'm training to become a triathlete.
 
-
-## 🛡️ Digital Philosophy
-
-### 🚫 Anti-Garbage Media
-**5+ years without the junk apps.**
-
-I rejected the infinite scroll and the noise of social media to focus entirely on **improving myself every single day**.
-
-*Perfecting healthy habits.*
-
-**My only social space is LinkedIn.**
-
 ## Skills & Technologies
 
-Here are some of the tools and technologies I love working with:
-
-- **Languages**: Java, Python, JavaScript, C#
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: GitHub, Git, Linux Command Line
-- **Frameworks**: Spring Boot, Angular
-
-## Get in Touch
-
-- [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:devdavco.github@pm.me)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandavidcorrales/) 
-
-
-## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -47,18 +21,27 @@ Here are some of the tools and technologies I love working with:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devdavco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚫 Anti-Garbage Media
+
+**5+ years without the junk apps.**
+
+I rejected the infinite scroll and the noise of social media to focus entirely on **improving myself every single day**.
+
+*Perfecting healthy habits.*
+
+**My only social space is LinkedIn.**
+
+
+## Get in Touch
+
+- [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:devdavco.github@pm.me)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandavidcorrales/) 
+
+
+<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devdavco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div>
-    ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devdavco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  </div>
-  <div>
-    ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-  </div>
-</div>
 
 ---
 [![](https://visitcountpro.netlify.app/api?id=devdavco&pretty=true)](https://visitcount.itsvg.in)
