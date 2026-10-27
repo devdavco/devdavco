@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm David Corrales</h1>
+<h1 align="center">Hi <img  width="30px" height="30px" alt="wave" src="https://github.com/user-attachments/assets/146e4c95-18d7-4be3-9734-10f441ef14e2" />, I'm David Corrales</h1>
 
 <p align="center">Full-Stack Java Developer in training · Cali, Colombia <img src="https://flagcdn.com/20x15/co.png" width="20" alt="Colombia flag"> </p>
 
