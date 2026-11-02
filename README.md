@@ -11,6 +11,7 @@ Outside of code, I run in the mountains and train to stay healthy for the long r
 ## Projects
 
 - [davidcorrales.dev](https://davidcorrales.dev)
+- [coworking.davidcorrales.dev](https://coworking.davidcorrales.dev): AWS deployment of a coworking booking app (Spring Boot + Angular) with Docker, EC2, RDS and CloudFront · [repo](https://github.com/devdavco/coworking-light)
 
 ## Tech stack
 
